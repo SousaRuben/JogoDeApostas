@@ -8,3 +8,13 @@ D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Fi
 D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.csproj.CoreCompileInputs.cache
 D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.exe
 D:\Kalleby\Documents\Programing\C#\Escola\Ficha-Euromilhoes\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.pdb
+C:\Users\kalle\Source\Repos\JogoDeApostas\Ficha-Euromilhoes\Ficha-Euromilhoes\bin\Debug\Ficha-Euromilhoes.exe.config
+C:\Users\kalle\Source\Repos\JogoDeApostas\Ficha-Euromilhoes\Ficha-Euromilhoes\bin\Debug\Ficha-Euromilhoes.exe
+C:\Users\kalle\Source\Repos\JogoDeApostas\Ficha-Euromilhoes\Ficha-Euromilhoes\bin\Debug\Ficha-Euromilhoes.pdb
+C:\Users\kalle\Source\Repos\JogoDeApostas\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.csprojAssemblyReference.cache
+C:\Users\kalle\Source\Repos\JogoDeApostas\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha_Euromilhoes.Form1.resources
+C:\Users\kalle\Source\Repos\JogoDeApostas\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha_Euromilhoes.Properties.Resources.resources
+C:\Users\kalle\Source\Repos\JogoDeApostas\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.csproj.GenerateResource.cache
+C:\Users\kalle\Source\Repos\JogoDeApostas\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.csproj.CoreCompileInputs.cache
+C:\Users\kalle\Source\Repos\JogoDeApostas\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.exe
+C:\Users\kalle\Source\Repos\JogoDeApostas\Ficha-Euromilhoes\Ficha-Euromilhoes\obj\Debug\Ficha-Euromilhoes.pdb
